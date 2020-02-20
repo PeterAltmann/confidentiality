@@ -42,6 +42,16 @@ Elevator explanation:
 * Applies various techniques from above
 * [Awesome list here](https://github.com/mortendahl/awesome-ppml)
 
-# WIP list
+# Other techniques list
 
-Old work here: https://docs.google.com/presentation/d/1ioo4R7EjExQtZC8XvajdokEdoRXy3uckFNA6WY1sbbk/edit?usp=sharing
+[Old work slide](https://docs.google.com/presentation/d/1ioo4R7EjExQtZC8XvajdokEdoRXy3uckFNA6WY1sbbk/edit?usp=sharing)
+
+* One time / stealth addresses (sender vs reciever generated), e.g., BIP32HD
+* Sign an unknown message using blind signatures
+* Hide the signer in a group, e.g., ring signatures
+* [Commitment schemes](https://en.wikipedia.org/wiki/Commitment_scheme), e.g., Pedersen commitments
+* Mixers and tumblers
+* Blinding identifiers e.g., (onlookers know that SUM_INPUTS == SUM_OUTPUTS, but cannot tell amounts, transacting parties can tell amount)
+* Private channel based techniques e.g., Fabric, Quorum
+* Merged list checks e.g., Google's Private Join ()
+* Combinations of the above (e.g., [Private Join and Compute](https://venturebeat.com/2019/06/19/googles-private-join-and-compute-gives-companies-data-insights-while-preserving-privacy/) with this [github repo](https://github.com/Google/private-join-and-compute))
