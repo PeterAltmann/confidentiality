@@ -41,3 +41,7 @@ Elevator explanation:
 
 * Applies various techniques from above
 * [Awesome list here](https://github.com/mortendahl/awesome-ppml)
+
+# WIP list
+
+Old work here: https://docs.google.com/presentation/d/1ioo4R7EjExQtZC8XvajdokEdoRXy3uckFNA6WY1sbbk/edit?usp=sharing
