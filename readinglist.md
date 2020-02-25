@@ -1,6 +1,7 @@
 # Zero knowledge proofs
 
 [Link to awesome list](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+
 [Another useful link list](https://zkp.science/)
 
 In essence: Prove that you know something, without revealing anything about how you know.
