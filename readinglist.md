@@ -4,6 +4,8 @@
 
 [Another useful link list](https://zkp.science/)
 
+[Book on that uses ZKP for identity](http://www.credentica.com/the_mit_pressbook.html)
+
 In essence: Prove that you know something, without revealing anything about how you know.
 
 Elevator explanation:
